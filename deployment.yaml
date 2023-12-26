@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: petclinic
-        image: docker.io/ravipinninti/pet-clinic123:latest
+        image: docker.io/padmashree2092/pet-clinic123:latest
         ports:
         - containerPort: 8080
         imagePullPolicy: Always
